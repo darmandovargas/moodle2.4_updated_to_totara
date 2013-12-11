@@ -1,0 +1,12 @@
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/config.php on line 26
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/config.php on line 26
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/config.php on line 26
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/config.php on line 26
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/editor/tinymce/plugins/loader.php on line 96
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/editor/tinymce/plugins/loader.php on line 97
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/editor/tinymce/plugins/loader.php on line 96
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/editor/tinymce/plugins/loader.php on line 97
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/editor/tinymce/plugins/loader.php on line 96
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/editor/tinymce/plugins/loader.php on line 96
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/editor/tinymce/plugins/loader.php on line 97
+[08-May-2013 12:23:40 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/editor/tinymce/plugins/loader.php on line 97

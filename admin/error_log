@@ -1,0 +1,43 @@
+[22-May-2013 10:16:41 America/Denver] Default exception handler: Plugin "mod_course_overview_campus" is defective or outdated, can not continue, sorry. Debug: Invalid plugin directory name.
+Error code: detectedbrokenplugin
+* line 525 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[22-May-2013 10:16:41 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/mod/course_overview_campus/version.php on line 19
+[22-May-2013 10:16:41 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/mod/course_overview_campus/version.php on line 19
+[22-May-2013 10:18:09 America/Denver] Default exception handler: Plugin "mod_course_overview_campus" is defective or outdated, can not continue, sorry. Debug: Invalid plugin directory name.
+Error code: detectedbrokenplugin
+* line 525 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[22-May-2013 10:18:09 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/mod/course_overview_campus/version.php on line 19
+[22-May-2013 10:18:09 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/mod/course_overview_campus/version.php on line 19
+[29-May-2013 15:18:21 America/Denver] Default exception handler: Plugin "mod_course_tree_list" is defective or outdated, can not continue, sorry. Debug: Invalid plugin directory name.
+Error code: detectedbrokenplugin
+* line 525 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[29-May-2013 15:18:21 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/mod/course_tree_list/version.php on line 29
+[29-May-2013 15:18:21 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/mod/course_tree_list/version.php on line 29
+[29-May-2013 15:18:50 America/Denver] Default exception handler: Plugin "mod_course_tree_list" is defective or outdated, can not continue, sorry. Debug: Invalid plugin directory name.
+Error code: detectedbrokenplugin
+* line 525 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[29-May-2013 15:18:51 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/mod/course_tree_list/version.php on line 29
+[29-May-2013 15:18:51 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/mod/course_tree_list/version.php on line 29
+[09-Sep-2013 21:47:17 America/Denver] Default exception handler: Plugin "mod_flv" is defective or outdated, can not continue, sorry. Debug: Missing mandatory en language pack.
+Error code: detectedbrokenplugin
+* line 565 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+

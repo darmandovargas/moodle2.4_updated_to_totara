@@ -1,0 +1,11 @@
+[24-Sep-2013 16:55:42] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/enrol/cohort/lib.php on line 49
+[24-Sep-2013 16:55:42] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/enrol/cohort/lib.php on line 49
+[24-Sep-2013 16:55:42] Default exception handler: Coding error detected, it must be fixed by a programmer: Invalid context id specified context::instance_by_id() Debug: 
+Error code: codingerror
+* line 5130 of /lib/accesslib.php: coding_exception thrown
+* line 49 of /enrol/cohort/lib.php: call to context::instance_by_id()
+* line 455 of /enrol/locallib.php: call to enrol_cohort_plugin->get_instance_name()
+* line 741 of /enrol/locallib.php: call to course_enrolment_manager->get_enrolment_instance_names()
+* line 907 of /enrol/locallib.php: call to course_enrolment_manager->get_user_enrolments()
+* line 201 of /enrol/users.php: call to course_enrolment_manager->get_users_for_display()
+

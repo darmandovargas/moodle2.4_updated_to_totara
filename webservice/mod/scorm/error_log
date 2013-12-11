@@ -1,0 +1,18 @@
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Undefined offset: 0 in /home/astmlms/public_html/mod/scorm/locallib.php on line 1542
+[08-May-2013 11:26:14 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/astmlms/public_html/mod/scorm/locallib.php on line 1542
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Undefined offset: 0 in /home/astmlms/public_html/mod/scorm/locallib.php on line 1569
+[08-May-2013 11:26:14 America/Denver] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/astmlms/public_html/mod/scorm/locallib.php on line 1569
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Undefined offset: 0 in /home/astmlms/public_html/mod/scorm/locallib.php on line 1570
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Undefined variable: usertracks in /home/astmlms/public_html/mod/scorm/locallib.php on line 1498
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/locallib.php on line 1772
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/locallib.php on line 1785
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/player.php on line 149
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/player.php on line 160
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/player.php on line 163
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/player.php on line 164
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/player.php on line 174
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/player.php on line 277
+[08-May-2013 11:26:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/player.php on line 284
+[03-Jun-2013 10:28:16 America/Denver] PHP Parse error:  syntax error, unexpected 'font' (T_STRING) in /home/astmlms/public_html/mod/scorm/view.php on line 138
+[24-Jul-2013 10:57:23 America/Denver] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/astmlms2/public_html/lib/dml/mysqli_native_moodle_database.php on line 381
+[06-Sep-2013 08:53:15 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms2/public_html/config.php on line 31

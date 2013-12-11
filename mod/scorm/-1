@@ -1,0 +1,45 @@
+[24-Sep-2013 16:50:01] PHP Notice:  Undefined offset: 0 in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1556
+[24-Sep-2013 16:50:01] PHP Warning:  Invalid argument supplied for foreach() in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1556
+[24-Sep-2013 16:50:01] PHP Notice:  Undefined offset: 0 in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1583
+[24-Sep-2013 16:50:01] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1583
+[24-Sep-2013 16:50:01] PHP Notice:  Undefined offset: 0 in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1584
+[24-Sep-2013 16:50:01] PHP Notice:  Undefined variable: usertracks in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1512
+[24-Sep-2013 16:50:01] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1786
+[24-Sep-2013 16:50:01] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1799
+[24-Sep-2013 16:50:01] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 149
+[24-Sep-2013 16:50:01] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 160
+[24-Sep-2013 16:50:01] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 163
+[24-Sep-2013 16:50:01] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 164
+[24-Sep-2013 16:50:01] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 174
+[24-Sep-2013 16:50:02] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 277
+[24-Sep-2013 16:50:02] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 284
+[24-Sep-2013 16:51:08] PHP Notice:  Undefined offset: 0 in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1556
+[24-Sep-2013 16:51:08] PHP Warning:  Invalid argument supplied for foreach() in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1556
+[24-Sep-2013 16:51:08] PHP Notice:  Undefined offset: 0 in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1583
+[24-Sep-2013 16:51:08] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1583
+[24-Sep-2013 16:51:08] PHP Notice:  Undefined offset: 0 in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1584
+[24-Sep-2013 16:51:08] PHP Notice:  Undefined variable: usertracks in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1512
+[24-Sep-2013 16:51:08] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1786
+[24-Sep-2013 16:51:08] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1799
+[24-Sep-2013 16:51:08] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 149
+[24-Sep-2013 16:51:08] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 160
+[24-Sep-2013 16:51:08] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 163
+[24-Sep-2013 16:51:08] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 164
+[24-Sep-2013 16:51:08] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 174
+[24-Sep-2013 16:51:09] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 277
+[24-Sep-2013 16:51:09] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 284
+[24-Sep-2013 16:58:20] PHP Notice:  Undefined offset: 0 in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1556
+[24-Sep-2013 16:58:20] PHP Warning:  Invalid argument supplied for foreach() in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1556
+[24-Sep-2013 16:58:20] PHP Notice:  Undefined offset: 0 in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1583
+[24-Sep-2013 16:58:20] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1583
+[24-Sep-2013 16:58:20] PHP Notice:  Undefined offset: 0 in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1584
+[24-Sep-2013 16:58:20] PHP Notice:  Undefined variable: usertracks in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1512
+[24-Sep-2013 16:58:20] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1786
+[24-Sep-2013 16:58:20] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 1799
+[24-Sep-2013 16:58:20] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 149
+[24-Sep-2013 16:58:20] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 160
+[24-Sep-2013 16:58:20] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 163
+[24-Sep-2013 16:58:20] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 164
+[24-Sep-2013 16:58:20] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 174
+[24-Sep-2013 16:58:20] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 277
+[24-Sep-2013 16:58:20] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/player.php on line 284

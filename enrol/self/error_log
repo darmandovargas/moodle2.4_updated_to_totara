@@ -1,0 +1,6 @@
+[16-May-2013 09:20:47 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/astmlms/public_html/lib/outputrenderers.php on line 1171
+[16-May-2013 09:21:12 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting '&' or variable (T_VARIABLE) in /home/astmlms/public_html/lib/outputrenderers.php on line 2193
+[16-May-2013 09:21:31 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/astmlms/public_html/lib/outputrenderers.php on line 1051
+[16-May-2013 09:21:42 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/astmlms/public_html/lib/outputrenderers.php on line 1171
+[16-May-2013 09:21:53 America/Denver] PHP Warning:  Unterminated comment starting line 2033 in /home/astmlms/public_html/lib/outputrenderers.php on line 2033
+[16-May-2013 09:21:53 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/astmlms/public_html/lib/outputrenderers.php on line 2059

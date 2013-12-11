@@ -1,0 +1,78 @@
+[24-Sep-2013 16:48:45] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:48:45] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:48:45] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:48:56] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:48:56] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:48:56] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:49:03] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:03] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:03] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:49:11] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:11] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:11] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:49:17] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:17] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:17] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:49:22] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:22] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:22] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:49:30] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:30] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:30] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:49:37] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:37] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:37] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:49:45] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:45] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:45] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:49:59] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:59] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:49:59] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:50:24] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:50:24] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:50:24] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:50:30] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:50:30] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:50:30] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:50:59] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:50:59] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:50:59] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:52:22] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:52:22] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:52:22] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:54:50] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:54:50] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:54:50] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:54:56] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:54:56] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:54:56] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:57:05] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:05] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:05] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:57:17] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:17] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:17] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:57:27] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:27] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:27] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:57:33] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:33] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:33] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:57:39] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:39] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:39] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:57:45] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:45] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:45] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:57:54] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:54] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:57:54] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:58:02] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:58:02] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:58:02] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:58:10] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:58:10] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:58:10] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833
+[24-Sep-2013 16:58:16] PHP Notice:  Undefined variable: COURSE in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:58:16] PHP Notice:  Trying to get property of non-object in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 826
+[24-Sep-2013 16:58:16] PHP Notice:  Undefined variable: orgidentifier in /var/www/vhosts/lms.astm.org/httpdocs/mod/scorm/locallib.php on line 833

@@ -1,0 +1,22 @@
+[08-May-2013 08:01:18 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/astmlms/public_html/config.php on line 28
+[02-Jul-2013 07:29:38 America/Denver] [client 201.232.179.37]  http://astmlms2.com  Failed Login:  admin  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+[04-Dec-2013 06:54:48 America/Denver] Can not read or insert database sessions
+[04-Dec-2013 07:51:34 America/Denver] Can not read or insert database sessions
+[04-Dec-2013 07:52:29 America/Denver] Can not read or insert database sessions
+[04-Dec-2013 07:52:37 America/Denver] Can not read or insert database sessions
+[04-Dec-2013 07:56:05 America/Denver] Can not read or insert database sessions
+[05-Dec-2013 08:25:57 America/Denver] [client 198.137.232.6]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+[05-Dec-2013 08:26:09 America/Denver] [client 198.137.232.6]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+[05-Dec-2013 08:26:30 America/Denver] [client 198.137.232.6]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+[05-Dec-2013 14:15:31 America/Denver] [client 198.137.232.6]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+[05-Dec-2013 14:15:42 America/Denver] [client 198.137.232.6]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+[05-Dec-2013 14:15:51 America/Denver] [client 198.137.232.6]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+[05-Dec-2013 14:15:59 America/Denver] [client 198.137.232.6]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+[07-Dec-2013 17:17:35 America/Denver] [client 71.225.52.147]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Linux; Android 4.3; en-us; SAMSUNG-SM-N900A Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+[07-Dec-2013 17:18:55 America/Denver] [client 71.225.52.147]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Linux; Android 4.3; en-us; SAMSUNG-SM-N900A Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36
+[07-Dec-2013 17:55:50 America/Denver] [client 71.225.52.147]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.0; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+[07-Dec-2013 17:56:12 America/Denver] [client 71.225.52.147]  http://astmlms.com  Unknown user, can not create new accounts:  dvonglahn@astm.org  Mozilla/5.0 (Windows NT 6.0; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+[07-Dec-2013 17:56:25 America/Denver] [client 71.225.52.147]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.0; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+[07-Dec-2013 17:56:33 America/Denver] [client 71.225.52.147]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.0; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+[07-Dec-2013 17:56:40 America/Denver] [client 71.225.52.147]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.0; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+[07-Dec-2013 17:57:01 America/Denver] [client 71.225.52.147]  http://astmlms.com  Unknown user, can not create new accounts:  dvglahn  Mozilla/5.0 (Windows NT 6.0; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0

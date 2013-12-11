@@ -1,0 +1,30 @@
+[08-May-2013 11:25:34 America/Denver] PHP Notice:  Undefined variable: incomplete in /home/astmlms/public_html/mod/scorm/locallib.php on line 816
+[08-May-2013 11:25:34 America/Denver] PHP Notice:  Undefined variable: COURSE in /home/astmlms/public_html/mod/scorm/locallib.php on line 826
+[08-May-2013 11:25:34 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/locallib.php on line 826
+[08-May-2013 11:25:34 America/Denver] PHP Notice:  Undefined variable: orgidentifier in /home/astmlms/public_html/mod/scorm/locallib.php on line 833
+[08-May-2013 11:25:54 America/Denver] PHP Notice:  Undefined variable: COURSE in /home/astmlms/public_html/mod/scorm/locallib.php on line 826
+[08-May-2013 11:25:54 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/locallib.php on line 826
+[08-May-2013 11:25:54 America/Denver] PHP Notice:  Undefined variable: orgidentifier in /home/astmlms/public_html/mod/scorm/locallib.php on line 833
+[08-May-2013 11:26:19 America/Denver] PHP Notice:  Undefined variable: COURSE in /home/astmlms/public_html/mod/scorm/locallib.php on line 826
+[08-May-2013 11:26:19 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/locallib.php on line 826
+[08-May-2013 11:26:19 America/Denver] PHP Notice:  Undefined variable: orgidentifier in /home/astmlms/public_html/mod/scorm/locallib.php on line 833
+[08-May-2013 12:22:22 America/Denver] PHP Notice:  Undefined variable: COURSE in /home/astmlms/public_html/mod/scorm/locallib.php on line 826
+[08-May-2013 12:22:22 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms/public_html/mod/scorm/locallib.php on line 826
+[08-May-2013 12:22:22 America/Denver] PHP Notice:  Undefined variable: orgidentifier in /home/astmlms/public_html/mod/scorm/locallib.php on line 833
+[13-Jun-2013 14:23:27 America/Denver] PHP Notice:  Undefined variable: incomplete in /home/astmlms2/public_html/mod/scorm/locallib.php on line 816
+[13-Jun-2013 14:23:27 America/Denver] PHP Notice:  Undefined variable: COURSE in /home/astmlms2/public_html/mod/scorm/locallib.php on line 826
+[13-Jun-2013 14:23:27 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms2/public_html/mod/scorm/locallib.php on line 826
+[13-Jun-2013 14:23:27 America/Denver] PHP Notice:  Undefined variable: orgidentifier in /home/astmlms2/public_html/mod/scorm/locallib.php on line 833
+[28-Jun-2013 12:05:18 America/Denver] PHP Notice:  Undefined variable: COURSE in /home/astmlms2/public_html/mod/scorm/locallib.php on line 826
+[28-Jun-2013 12:05:18 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms2/public_html/mod/scorm/locallib.php on line 826
+[28-Jun-2013 12:05:18 America/Denver] PHP Notice:  Undefined variable: orgidentifier in /home/astmlms2/public_html/mod/scorm/locallib.php on line 833
+[28-Jun-2013 12:05:26 America/Denver] PHP Notice:  Undefined variable: COURSE in /home/astmlms2/public_html/mod/scorm/locallib.php on line 826
+[28-Jun-2013 12:05:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home/astmlms2/public_html/mod/scorm/locallib.php on line 826
+[28-Jun-2013 12:05:26 America/Denver] PHP Notice:  Undefined variable: orgidentifier in /home/astmlms2/public_html/mod/scorm/locallib.php on line 833
+[24-Jul-2013 11:03:40 America/Denver] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/astmlms2/public_html/lib/dml/mysqli_native_moodle_database.php on line 381
+[24-Jul-2013 11:38:38 America/Denver] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/astmlms2/public_html/lib/dml/mysqli_native_moodle_database.php on line 381
+[24-Jul-2013 12:39:16 America/Denver] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/astmlms2/public_html/lib/dml/mysqli_native_moodle_database.php on line 381
+[08-Aug-2013 18:16:20 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms2/public_html/config.php on line 19
+[08-Aug-2013 18:16:20 America/Denver] PHP Notice:  Undefined property: stdClass::$dbtype in /home/astmlms2/public_html/lib/dmllib.php on line 312
+[08-Aug-2013 18:16:20 America/Denver] PHP Notice:  Undefined property: stdClass::$dbtype in /home/astmlms2/public_html/lib/dmllib.php on line 339
+[08-Aug-2013 18:16:20 America/Denver] PHP Notice:  Undefined property: stdClass::$dbtype in /home/astmlms2/public_html/lib/dmllib.php on line 340

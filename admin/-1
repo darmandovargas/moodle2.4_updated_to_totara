@@ -1,0 +1,54 @@
+[16-Sep-2013 18:04:46] Default exception handler: Plugin "mod_apc" is defective or outdated, can not continue, sorry. Debug: Missing version value in version.php
+Error code: detectedbrokenplugin
+* line 548 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[16-Sep-2013 18:04:46] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/apc/version.php on line 27
+[16-Sep-2013 18:04:46] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/apc/version.php on line 27
+[17-Sep-2013 19:30:15] Default exception handler: Plugin "mod_xcache" is defective or outdated, can not continue, sorry. Debug: Missing version value in version.php
+Error code: detectedbrokenplugin
+* line 548 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[17-Sep-2013 19:30:16] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/xcache/version.php on line 25
+[17-Sep-2013 19:30:16] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/xcache/version.php on line 25
+[17-Sep-2013 20:13:11] Default exception handler: Plugin "mod_xcache" is defective or outdated, can not continue, sorry. Debug: Missing version value in version.php
+Error code: detectedbrokenplugin
+* line 548 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[17-Sep-2013 20:13:11] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/xcache/version.php on line 25
+[17-Sep-2013 20:13:11] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/xcache/version.php on line 25
+[17-Sep-2013 20:28:03] Default exception handler: Plugin "mod_xcache" is defective or outdated, can not continue, sorry. Debug: Missing version value in version.php
+Error code: detectedbrokenplugin
+* line 548 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[17-Sep-2013 20:28:03] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/xcache/version.php on line 25
+[17-Sep-2013 20:28:03] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/xcache/version.php on line 25
+[17-Sep-2013 20:31:54] Default exception handler: Plugin "mod_xcache" is defective or outdated, can not continue, sorry. Debug: Missing version value in version.php
+Error code: detectedbrokenplugin
+* line 548 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[17-Sep-2013 20:31:55] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/xcache/version.php on line 26
+[17-Sep-2013 20:31:55] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/xcache/version.php on line 26
+[17-Sep-2013 20:43:55] Default exception handler: Plugin "mod_apc" is defective or outdated, can not continue, sorry. Debug: Missing version value in version.php
+Error code: detectedbrokenplugin
+* line 548 of /lib/upgradelib.php: plugin_defective_exception thrown
+* line 360 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1544 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 349 of /admin/index.php: call to upgrade_noncore()
+
+[17-Sep-2013 20:43:56] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/apc/version.php on line 27
+[17-Sep-2013 20:43:56] PHP Strict Standards:  Creating default object from empty value in /var/www/vhosts/lms.astm.org/httpdocs/mod/apc/version.php on line 27

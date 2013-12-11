@@ -1,0 +1,10 @@
+[08-May-2013 08:01:19 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/astmlms/public_html/config.php on line 28
+[08-May-2013 12:17:46 America/Denver] PHP Notice:  Undefined property: stdClass::$newadminuser in /home/astmlms/public_html/user/editlib.php on line 263
+[08-May-2013 12:23:16 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/astmlms/public_html/config.php on line 26
+[08-May-2013 12:23:28 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/config.php on line 26
+[08-May-2013 12:23:28 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/sessionlib.php on line 190
+[08-May-2013 12:23:52 America/Denver] PHP Warning:  Creating default object from empty value in /home/astmlms/public_html/config.php on line 26
+[08-May-2013 12:23:52 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/astmlms/public_html/config.php:26) in /home/astmlms/public_html/lib/sessionlib.php on line 190
+[08-May-2013 13:06:21 America/Denver] PHP Warning:  imagepng(): gd-png error: no colors in palette in /home/astmlms/public_html/lib/gdlib.php on line 226
+[08-May-2013 13:06:21 America/Denver] PHP Warning:  imagepng(): gd-png error: no colors in palette in /home/astmlms/public_html/lib/gdlib.php on line 238
+[08-May-2013 13:06:21 America/Denver] PHP Warning:  imagepng(): gd-png error: no colors in palette in /home/astmlms/public_html/lib/gdlib.php on line 249
